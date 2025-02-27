@@ -52,24 +52,24 @@ Am ales această tematică deoarece îmi place să călătoresc și doresc să l
 M-am inspirat din următoarele site-uri, analizând avantajele și dezavantajele fiecăruia:  
 
 ### **Christian Tour** ([link](https://christiantour.ro/blog/#dica_divi_carouselitem_0))  
-✅ **Pro:** Design modern, navigare intuitivă.  
-❌ **Contra:** Organizarea conținutului nu este clară.  
+**Pro:** Design modern, navigare intuitivă.  
+**Contra:** Organizarea conținutului nu este clară.  
 
 ### **Happy Tour** ([link](https://www.happytour.ro/))  
-✅ **Pro:** Prezentare clară a ofertelor, sistem de filtrare eficient.  
-❌ **Contra:** Designul site-ului este învechit.  
+**Pro:** Prezentare clară a ofertelor, sistem de filtrare eficient.  
+**Contra:** Designul site-ului este învechit.  
 
 ### **Hello Holidays** ([link](https://www.helloholidays.ro/))  
-✅ **Pro:** Căutare bine evidențiată și ușor de utilizat.  
-❌ **Contra:** Lipsa detaliilor despre agenție și servicii.  
+**Pro:** Căutare bine evidențiată și ușor de utilizat.  
+**Contra:** Lipsa detaliilor despre agenție și servicii.  
 
 ### **TUI Travel Center** ([link](https://tuitravelcenter.ro/hoteluri_tui))  
-✅ **Pro:** Sistem de filtrare bine dezvoltat.  
-❌ **Contra:** Organizarea informațiilor poate fi îmbunătățită.  
+**Pro:** Sistem de filtrare bine dezvoltat.  
+**Contra:** Organizarea informațiilor poate fi îmbunătățită.  
 
 ### **Paralela 45** ([link](https://www.paralela45.ro/vouchere-cadou/))  
-✅ **Pro:** Diversitate în oferte, sistem de rezervare ușor de utilizat.  
-❌ **Contra:** Paginile conțin prea multe informații, ceea ce poate fi confuz.  
+**Pro:** Diversitate în oferte, sistem de rezervare ușor de utilizat.  
+**Contra:** Paginile conțin prea multe informații, ceea ce poate fi confuz.  
 
 ## **Schema de culori a site-ului**  
 
