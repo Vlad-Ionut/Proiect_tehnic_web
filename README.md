@@ -1,7 +1,7 @@
 # Proiect_tehnic_web
 # Descrierea Succintă a Temei  
 
-Sunt studentul **Șalgău Vlad Ionuț** de la grupa **262** și am ales tema proiectului meu: **crearea unui site pentru o agenție de turism**.  
+Sunt studentul **Șalgău Vlad Ionuț** de la grupa **362** și am ales tema proiectului meu: **crearea unui site pentru o agenție de turism**.  
 
 Am ales această tematică deoarece îmi place să călătoresc și doresc să le ofer celor din jur idei de vacanță interesante. Prin urmare, site-ul va avea:  
 - **Un design atrăgător** cu imagini de înaltă calitate.  
